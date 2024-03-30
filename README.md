@@ -14,7 +14,7 @@ This README provides concise instructions for installing dependencies and runnin
 
 ## After cloning you will install first this Dependencies 
 
-1. **Running on browser:** just run the html file on browser.
+1. **Running on browser:** just run the html file inside the folders on your browser.
 
 2. **Testing** Try to move your face towards the camera/webcam even an object to detect it
 3. ### You are welcome to modify and add updates on the project. Happy Coding!
