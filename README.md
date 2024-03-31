@@ -12,7 +12,7 @@ This README provides concise instructions for installing dependencies and runnin
 - ```bash 
   git clone https://github.com/Artisan-Peeper/cam-detector
 
-## After cloning you will install first this Dependencies 
+## Testing
 
 1. **Running on browser:** just run the html file inside the folders on your browser.
 
