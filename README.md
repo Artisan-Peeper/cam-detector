@@ -3,7 +3,7 @@
 This is a simple Tensorflow.js integration of object detecting
 
 
-This README provides concise instructions for installing dependencies and running the Flask application.
+This README provides concise instructions for running Tensorflow.js 
 
 
 ## Download this first or clone it on your vscode folder
