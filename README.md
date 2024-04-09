@@ -1,4 +1,5 @@
-# Camera Detection Entity Object
+# Camera Detection Entity Object 
+- Created by tcker
 
 This is a simple Tensorflow.js integration of object detecting
 
